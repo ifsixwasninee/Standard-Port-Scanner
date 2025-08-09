@@ -1,6 +1,7 @@
 Usage:
 
 python3 port_scanner.py
+
 " -----------------------------------------------------------------------
 
 Sample Output:
@@ -34,3 +35,4 @@ graph TD
 Legal Disclaimer:
 
     "This tool is provided for educational and authorized security testing purposes only. The developers assume no liability for misuse. Unauthorized port scanning violates computer misuse laws in most jurisdictions and may result in severe legal penalties."
+
