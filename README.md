@@ -2,6 +2,7 @@ Usage:
 
 python3 port_scanner.py
 " -----------------------------------------------------------------------
+
 Sample Output:
 
 Enter target IP or hostname: 192.168.0.1
@@ -16,7 +17,9 @@ Confirm scan (y/n)? y
  [OPEN] PORT 443 (https)
 
 [+] Scan Complete at: 2025-08-02 08:55:30
+
 " -----------------------------------------------------------------------
+
 Program Graph:
 
 graph TD
@@ -27,6 +30,7 @@ graph TD
     E --> F[Security Notice]
 
 " -----------------------------------------------------------------------
+
 Legal Disclaimer:
 
     "This tool is provided for educational and authorized security testing purposes only. The developers assume no liability for misuse. Unauthorized port scanning violates computer misuse laws in most jurisdictions and may result in severe legal penalties."
